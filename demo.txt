@@ -1,3 +1,2 @@
 
 this is 2nd line
-this is for showing how to revert from local repo to the previous stage
